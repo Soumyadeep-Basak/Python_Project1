@@ -1,0 +1,7 @@
+CourseID,CourseName,Marks,StudentID
+C001,python,95,CSE2201
+C001,python,73,CSE2101
+C002,physics,65,CSE2201
+C002,physics,78,CSE2101
+C002,physics,34,ECE2201
+C002,physics,95,ECE2202
